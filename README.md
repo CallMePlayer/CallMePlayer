@@ -5,8 +5,8 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently learning about **Cursor**, **Copyright**, and **Copyleft**
-- 💻 I’m proficient in **Python**
-- 🎮 I enjoy working on **PeerTube**
+- 💻 I’m proficient in **Python**, **Bash**, and **Powershell**
+- 🎮 I enjoy working on **CTFs**, **PeerTube**, and **Music Videos**
 - 🌍 I’m based in **Sacramento, California**
 - 📫 You can reach me on **[LinkedIn](https://www.linkedin.com/in/ianmenz/)**
 
