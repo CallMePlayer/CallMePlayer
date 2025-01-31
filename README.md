@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, World! My name is Ian!
 
-<!--
-**CallMePlayer/CallMePlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm learning about AI-assisted development to further my passions for cybersecurity and video production. I'm always eager to learn and level up.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Cursor**
+- 💻 I’m proficient in **Python**
+- 🎮 I enjoy working on **PeerTube**
+- 🌍 I’m based in **Sacramento, California**
+- 📫 You can reach me on **[LinkedIn](https://www.linkedin.com/in/ianmenz/)**
+
+## 🔧 Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+- **Languages:** HTML, Python, Java, C
+- **Tools:** DaVinci Resolve, Kali Linux, VS Code
+
+## 🌟 Projects
+
+Here are a few projects I've worked on:
+
+- **[Menzo Collaborations](https://www.youtube.com/@MenzoCollabs)**: Music Videos
+- **[menzo.video](https://menzo.video)**: PeerTube Platform
+- **[player01ready](https://player01ready.com)**: The Game
+
+Feel free to check them out!
+
+## 📫 Get in Touch
+
+I'm always open to collaborating on interesting projects or just having a chat about tech! You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/ianmenz/)
+- [YouTube](https://www.youtube.com/@CallMePlayer.01)
+
+Thanks for stopping by! Let's connect and create something amazing together! 🚀
