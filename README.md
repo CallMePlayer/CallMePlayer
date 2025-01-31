@@ -1,6 +1,6 @@
 # 👋 Hello, World! 
 
- My name is Ian, and I'm learning about AI-assisted development to further my passions for cybersecurity and video production. Open Source wins, and I'm always eager to learn and level up!
+ My name is Ian, and I'm learning about AI-assisted development and digital rights to further my passions for cybersecurity and filmmaking. I'm always eager to learn and level up!
 
 ## 🚀 About Me
 
