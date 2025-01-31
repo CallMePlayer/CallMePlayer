@@ -1,6 +1,6 @@
-# 👋 Welcome to my GitHub profile! 
+# 👋 Hello, World! 
 
-Hello, World! My name is Ian, and I'm learning about AI-assisted development to further my passions for cybersecurity and video production. I'm always eager to learn and level up!
+ My name is Ian, and I'm learning about AI-assisted development to further my passions for cybersecurity and video production. I'm always eager to learn and level up!
 
 ## 🚀 About Me
 
