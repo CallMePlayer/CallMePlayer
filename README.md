@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Cursor** and **Copyleft**
+- 🌱 I’m currently learning about **Cursor**, **Copyright**, and **Copyleft**
 - 💻 I’m proficient in **Python**
 - 🎮 I enjoy working on **PeerTube**
 - 🌍 I’m based in **Sacramento, California**
