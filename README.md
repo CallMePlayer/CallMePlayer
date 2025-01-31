@@ -26,12 +26,3 @@ Here are a few projects I've worked on:
 - **[player01ready](https://player01ready.com)**: The Game
 
 Feel free to check them out!
-
-## 📫 Get in Touch
-
-I'm always open to collaborating on interesting projects or just having a chat about tech! You can find me on:
-
-- [LinkedIn](https://www.linkedin.com/in/ianmenz/)
-- [YouTube](https://www.youtube.com/@CallMePlayer.01)
-
-Thanks for stopping by! Let's connect and create something amazing together! 🚀
