@@ -23,6 +23,6 @@ Here are a few projects I've worked on:
 
 - **[Menzo Collaborations](https://www.youtube.com/@MenzoCollabs)**: Music Videos
 - **[menzo.video](https://menzo.video)**: PeerTube Platform
-- **[The Game](https://player01ready.com)**: Alternate Reality Game
+- **[The Game](https://player01ready.com)**: ARE YOU READY?
 
 Feel free to check them out!
