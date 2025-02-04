@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🌟 Projects
 
-Here are a few projects I've worked on:
+Here are a few projects I am working on:
 
 - **[Menzo Collaborations](https://www.youtube.com/@MenzoCollabs)**: Music Videos
 - **[menzo.video](https://menzo.video)**: PeerTube Platform
