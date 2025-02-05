@@ -1,4 +1,4 @@
-# print("👋 Hello, World!") 
+# 👋 print("Hello, World!") 
 
  My name is Ian, and I'm learning about AI-assisted development and digital rights to further my passions for cybersecurity and filmmaking. I'm always eager to learn and level up!
 
