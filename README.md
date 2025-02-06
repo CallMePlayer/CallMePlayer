@@ -1,6 +1,6 @@
 # 👋 print("Hello, World!") 
 
- My name is Ian, and I'm learning about AI-assisted development and digital rights to further my passions for cybersecurity and filmmaking. I'm always ready to learn and level up!
+ Hi, I'm Ian! I'm currently exploring AI-assisted development to fuel my passions for cybersecurity and filmmaking. I thrive on learning and am always eager to level up my skills. 
 
 ## 🚀 About Me
 
